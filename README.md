@@ -7,7 +7,7 @@ How to open a link in Safari using Swift 5
 - iOS 12.2
 - Swift 5
 
-<p align="center">
+<p align="left">
   <img src="images/image1.png" width="350" title="Image 1">
 </p>
 
