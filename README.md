@@ -1,6 +1,6 @@
 # Open Link In Safari Snippet
 
-How to open a link in Safari using Swift 5
+In this snipppet, the SafariServices library is used to present an instance of SFSafariViewController to show a web page.
 
 ## Tech Specs
 
