@@ -4,7 +4,7 @@ In this snipppet, the ```SafariServices``` library is used to present an instanc
 
 ## Tech Specs
 
-- iOS 12.2
+- Supports iOS 12 and iOS 13
 - Swift 5
 
 <p>
